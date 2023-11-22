@@ -23,9 +23,9 @@ _Create a GitHub Action and use it in a workflow._
 
 _You've now got a fully functioning workflow! :smile:_
 
-:simile_ 
+😙
 💂‍♂️
-:arrow_down_small
+🔽
 
 Your new action will run any time a pull request has been opened.
 
